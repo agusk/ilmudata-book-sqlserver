@@ -75,3 +75,4 @@ You can buy this book the following online stores:
 * Lulu: https://www.lulu.com/shop/agus-kurniawan/mastering-business-data-with-sql/ebook/product-p656e69.html
 * Apple iBookstore: http://books.apple.com/us/book/id6749783717
 * Leanpub: https://leanpub.com/bizdatasql
+* Others: https://books2read.com/u/meO0rg 
